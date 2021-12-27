@@ -1,40 +1,31 @@
-AlertOps Expert Guidance
+AlertOps and Server Density Integration Delivers Combined Performance Monitoring and Incident Communication
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+ Server Density is a hosted monitoring service that monitors servers and websites and visualizes performance metrics using real-time graphs.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Server density collects and displays every performance metric, across all systems, including AWS, Google Cloud, Microsoft Azure, Rackspace, and other popular cloud computing services. This enables you to identify problems before they affect your customers and become critical incidents.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+Since Server Density is hosted, your websites and servers are monitored from several locations around the world so you can be sure that your servers are running fast and your websites are loading quickly.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+All this amounts to outstanding performance monitoring and tons of useful data. But all this information doesn’t reduce your time to resolution if you can’t get the information to your teams.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+AlertOps gives you the incident communications tools you need to use Server Density to reduce your incident response time and enable you to resolve incidents faster.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Here’s how integrating AlertOps and Server Density can improve your incident management:
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+    AlertOps automatically opens alerts when Server Density sends an alert, and closes the alert when Server Density reports a status of “True.” This reduces the administrative load on your tech teams and makes incident management more efficient.
+    AlertOps sends custom messages with alerts using the inbound field from the JSON, so your teams immediately have the information they need to start troubleshooting.
+    AlertOps can map any inbound field to the topic field so you can track incidents by topic, and use them to route incidents to the team who can best resolve the problem.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+You can do all this with a quick, simple integration using our Generic REST API. Additionally, AlertOps gives you configurable message routing rules, customizable workflows and escalations, SLA based severity management, and even more tools that make incident management easy.
 
-1 Red Canary 2021 Threat Detection Report
+Head over to our help center to learn how to configure your AlertOps and Server Density integration, and find out what more AlertOps and Server Density can do for you.
+
+Or check out over 50 other third-party integrations for the monitoring and reporting tools you use every day!
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-and-server-density-integration/
 
 Read more:
 ====
